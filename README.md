@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dannymetall
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning python,javascript anda data science.
+- 🌱 I’m currently learning python, javascript and data science.
 - 💞️ I’m looking to collaborate on opensource.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
