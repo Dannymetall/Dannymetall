@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dannymetall
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning python and data science.
-- 💞️ I’m looking to collaborate on opensource.
+- 👋 Hi! I am Danny, Currently I am data science student, but I interested in other issues like mathematics, economy, international trade, logistics and principles of manufacturing.
+- 🌱 I feel interesting in some programming languages like Python, SQL, Matlab.
+- I love the design and visualizations.
 
 
 <!---
